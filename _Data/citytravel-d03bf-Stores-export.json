@@ -1,0 +1,121 @@
+{
+    "Stores" : {
+  "-KukOX-_5CKSSuD061mW" : {
+    "address" : "Statue of Liberty National Monument New York, NY 10004, USA",
+    "category" : "New York",
+    "date" : "30-09-2017 10:50:00",
+    "description" : "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and built by Gustave Eiffel. The statue was dedicated on October 28, 1886.",
+    "email" : "N.A",
+    "lati" : 40.6892494,
+    "longi" : -74.0445004,
+    "phoneNumber" : "Open every day from 8:30 to 18:30",
+    "photo" : "https://firebasestorage.googleapis.com/v0/b/citytravel-d03bf.appspot.com/o/storeImages%2Fstatue.jpg?alt=media&token=672222de-3f20-4ac1-9168-1b0ad8ec25f5",
+    "sNams" : "Statue of Liberty",
+    "website" : "N.A"
+  },
+  "-KukOq7Mp81-MlKWIpF5" : {
+    "address" : "Carrer de Mallorca, 401, Barcelona, Spain",
+    "category" : "Spain",
+    "date" : "30-09-2017 10:51:00",
+    "description" : "The Basílica i Temple Expiatori de la Sagrada Família is a large unfinished Roman Catholic church in Barcelona, designed by Catalan architect Antoni Gaudí. Gaudí's work on the building is part of a UNESCO World Heritage Site, and in November 2010 Pope Benedict XVI consecrated and proclaimed it a minor basilica, as distinct from a cathedral, which must be the seat of a bishop.",
+    "email" : "N.A",
+    "lati" : 41.4044991,
+    "longi" : 2.1742896000000655,
+    "phoneNumber" : "N.A",
+    "photo" : "https://firebasestorage.googleapis.com/v0/b/citytravel-d03bf.appspot.com/o/storeImages%2Fsagrada.jpg?alt=media&token=084d5414-a7d4-47ad-8214-c91c4329d5fe",
+    "sNams" : "Sagrada Familia",
+    "website" : "N.A"
+  },
+  "-KukPB4hrAfd3WMGew_S" : {
+    "address" : "Les Rambles, 08002 Barcelona, Spain",
+    "category" : "Spain",
+    "date" : "30-09-2017 10:52:00",
+    "description" : "Just 500 metres from Hyde Park, Linden House Hotel offers elegant town house accommodation with free Wi-Fi.  There is a 24-hour front desk, and lively Oxford Street is a 15-minute walk away.  The stylish, refurbished rooms at Linden House Hotel have a TV and private modern bathroom.  Rooms also feature tea/coffee facilities and a hairdryer.  Generous continental breakfasts are served daily in the spacious dining room at Linden House.  There is a great range of international restaurants just a short walk away",
+    "email" : "N.A",
+    "lati" : 41.3807484,
+    "longi" : 2.1737903000000642,
+    "phoneNumber" : "N.A",
+    "photo" : "https://firebasestorage.googleapis.com/v0/b/citytravel-d03bf.appspot.com/o/storeImages%2Framblas.jpg?alt=media&token=a7d9b645-97e3-4e81-8320-ce1a75433b50",
+    "sNams" : "Las Ramblas",
+    "website" : "N.A"
+  },
+  "-KukUU0QV3PmerxWFlSu" : {
+    "address" : "Piazza del Colosseo, 1, 00184 Roma, Italy",
+    "category" : "Rome",
+    "date" : "30-09-2017 10:53:00",
+    "description" : "Located just east of the Roman Forum, the massive stone amphitheater known as the Colosseum was commissioned around A.D. 70-72 by Emperor Vespasian of the Flavian dynasty as a gift to the Roman people. In A.D. 80, Vespasian’s son Titus opened the Colosseum–officially known as the Flavian Amphitheater–with 100 days of games, including gladiatorial combats and wild animal fights. After four centuries of active use, the magnificent arena fell into neglect, and up until the 18th century it was used as a source of building materials. Though two-thirds of the original Colosseum has been destroyed over time, the amphitheater remains a popular tourist destination, as well as an iconic symbol of Rome and its long, tumultuous history",
+    "email" : "N.A",
+    "lati" : 41.89021020000001,
+    "longi" : 12.492230899999981,
+    "phoneNumber" : "N.A",
+    "photo" : "https://firebasestorage.googleapis.com/v0/b/citytravel-d03bf.appspot.com/o/storeImages%2Fcoloseum.jpg?alt=media&token=e9a9d33c-bd3c-4929-9819-c6c3a9dae739",
+    "sNams" : "Colosseum",
+    "website" : "N.A"
+  },
+  "-KukuNelKztRU0jGSBJC" : {
+    "address" : "Piazza San Pietro, vatican City, Italy",
+    "category" : "Rome",
+    "date" : "30-09-2017 10:54:00",
+    "description" : "Once inside the nave the enormous size of the church becomes apparent. The basilica has a surface area of 15,160 square meters, enough space to accommodate 60,000 visitors. It is covered by a coffered barrel vault ceiling and a huge central dome.  The opulence of the interior bears testimony to the wealth of the Catholic church in the sixteenth and seventeenth centuries. It is decorated with large monuments, many of which were created by Gian Lorenzo Bernini, one of the greatest artists of all time.",
+    "email" : "N.A",
+    "lati" : 41.90216669999999,
+    "longi" : 12.453936699999986,
+    "phoneNumber" : "N.A",
+    "photo" : "https://firebasestorage.googleapis.com/v0/b/citytravel-d03bf.appspot.com/o/storeImages%2Fpeters.jpg?alt=media&token=407c6d56-4ea8-4d81-b69e-9250fdb385d2",
+    "sNams" : "St. Peter's Basilica",
+    "website" : "N.A"
+  },
+  "-Kumiga40y4zm--Lyp-w" : {
+    "address" : "Champ de Mars, 5 Avenue Anatole France",
+    "category" : "France",
+    "date" : "30-09-2017 10:55:00",
+    "description" : "The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+    "email" : "N.A",
+    "lati" : 48.85837009999999,
+    "longi" : 2.2944813000000295,
+    "phoneNumber" : "N.A",
+    "photo" : "https://firebasestorage.googleapis.com/v0/b/citytravel-d03bf.appspot.com/o/storeImages%2Ftower.jpg?alt=media&token=2935f519-f2ba-439b-bef4-5091b03f3da9",
+    "sNams" : "Eiffel Tower",
+    "website" : "N.A"
+  },
+  "-Kun5blsjWi0RtjFMil4" : {
+    "address" : "SE1 2UP, United Kingdom, England",
+    "category" : "England",
+    "date" : "30-09-2017 10:56:00",
+    "description" : "Tower Bridge is a combined bascule and suspension bridge in London built between 1886 and 1894. The bridge crosses the River Thames close to the Tower of London and has become an iconic symbol of London, resulting in it sometimes being confused with London Bridge, situated some upstream.",
+    "email" : "N.A",
+    "lati" : 51.5001971,
+    "longi" : -0.0785872000000154,
+    "phoneNumber" : "N.A",
+    "photo" : "https://firebasestorage.googleapis.com/v0/b/citytravel-d03bf.appspot.com/o/storeImages%2Ftowerbridge.jpg?alt=media&token=3f009fac-0ec6-4044-bec3-f3e24f6402ae",
+    "sNams" : "Tower Bridge",
+    "website" : "N.A"
+  },
+  "-KuoxHPNXCuTEa1HMvv4" : {
+    "address" : "Manhattan, NY 10036, United States",
+    "category" : "New York",
+    "date" : "30-09-2017 10:57:00",
+    "description" : "Times Square is a major commercial intersection, tourist destination, entertainment center and neighborhood in the Midtown Manhattan section of New York City at the junction of Broadway and Seventh Avenue. It stretches from West 42nd to West 47th Streets.",
+    "email" : "N.A",
+    "lati" : 40.758895,
+    "longi" : -73.98513100000002,
+    "phoneNumber" : "N.A",
+    "photo" : "https://firebasestorage.googleapis.com/v0/b/citytravel-d03bf.appspot.com/o/storeImages%2Ftimes.jpg?alt=media&token=f2421953-bce8-493a-8db1-445fd4cd6ee1",
+    "sNams" : "Times Square",
+    "website" : "N.A"
+  },
+  "-Kv2xNvqo5CjiKm5elTC" : {
+    "address" : "75001 Paris, France",
+    "category" : "France",
+    "date" : "30-09-2017 10:58:00",
+    "description" : "The Louvre or the Louvre Museum is the world's largest art museum and a historic monument in Paris, France. A central landmark of the city, it is located on the Right Bank of the Seine in the city's 1st arrondissement. Approximately 38,000 objects from prehistory to the 21st century are exhibited over an area of 72,735 square metres. The Louvre in 2016 was the world's most visited art museum, receiving 7.3 million visitors.",
+    "email" : "N.A",
+    "lati" : 48.86071750000001,
+    "longi" : 2.3335058000000117,
+    "phoneNumber" : "N.A",
+    "photo" : "https://firebasestorage.googleapis.com/v0/b/citytravel-d03bf.appspot.com/o/storeImages%2Flouvre.jpg?alt=media&token=4144c286-b908-4fe2-97bd-d5f0d143de3f",
+    "sNams" : "Musée du Louvre",
+    "website" : "N.A"
+  }
+}
+}

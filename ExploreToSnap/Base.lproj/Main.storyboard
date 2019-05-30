@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SnellRoundhand.ttc">
+            <string>SnellRoundhand-Bold</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ExploreToSnap" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="img3" translatesAutoresizingMaskIntoConstraints="NO" id="Qby-53-7Ak">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="ExploreToSnap" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gko-rk-uPt">
+                                <rect key="frame" x="95" y="97" width="185" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="SnellRoundhand-Bold" family="Snell Roundhand" pointSize="27"/>
+                                <color key="textColor" red="0.98778485819999995" green="1" blue="0.1924247942" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gaE-Og-Rj1">
+                                <rect key="frame" x="140" y="505" width="94" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="lWm-Fb-HeE"/>
+                                    <constraint firstAttribute="width" constant="94" id="zeo-rq-vwc"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <state key="normal" title="Register">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cfi-6l-0Fq">
+                                <rect key="frame" x="152" y="543" width="71" height="34"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="34" id="FBm-FE-p0U"/>
+                                    <constraint firstAttribute="width" constant="71" id="u7e-ip-7fn"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <state key="normal" title="Sign In">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Qby-53-7Ak" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="5kK-Ro-EqH"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="gaE-Og-Rj1" secondAttribute="trailing" constant="141" id="EYy-Zr-HiV"/>
+                            <constraint firstItem="Qby-53-7Ak" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="QcP-r9-quI"/>
+                            <constraint firstItem="gaE-Og-Rj1" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="140" id="R7s-ZN-89d"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Cfi-6l-0Fq" secondAttribute="trailing" constant="152" id="TrT-6E-8NX"/>
+                            <constraint firstItem="Qby-53-7Ak" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="Z6h-Da-D05"/>
+                            <constraint firstItem="Cfi-6l-0Fq" firstAttribute="top" secondItem="gaE-Og-Rj1" secondAttribute="bottom" constant="8" id="gJx-z1-dpk"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Cfi-6l-0Fq" secondAttribute="bottom" constant="90" id="gPa-D8-QSb"/>
+                            <constraint firstItem="Cfi-6l-0Fq" firstAttribute="top" secondItem="gaE-Og-Rj1" secondAttribute="bottom" constant="8" id="nVc-Cf-6Dc"/>
+                            <constraint firstItem="gaE-Og-Rj1" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="topMargin" constant="485" id="nbJ-x3-8fM"/>
+                            <constraint firstItem="Qby-53-7Ak" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="nrd-VD-4Eu"/>
+                            <constraint firstItem="Cfi-6l-0Fq" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="152" id="xyd-O6-RAF"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="132.68365817091455"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="img3" width="1080" height="1920"/>
+    </resources>
+</document>
