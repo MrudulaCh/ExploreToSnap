@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>756691727984-0uhrnb1b30eufaqpimepgu97ldn6t6v8.apps.googleusercontent.com</string>
+	<string></string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.756691727984-0uhrnb1b30eufaqpimepgu97ldn6t6v8</string>
+	<string></string>
 	<key>API_KEY</key>
 	<string>AIzaSyCvfdWQ22ZscqVGwCr8jU-1fxSQC2aXI7w</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.mrudula.scenicLocation</string>
+	<string></string>
 	<key>PROJECT_ID</key>
 	<string>sceniclocationapp</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:756691727984:ios:9e27eccd95f494ff</string>
+	<string></string>
 	<key>DATABASE_URL</key>
-	<string>https://sceniclocationapp.firebaseio.com</string>
+	<string></string>
 </dict>
 </plist>
