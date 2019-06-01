@@ -11,8 +11,8 @@ import Foundation
 import CoreLocation
 
 struct PlacesLoader {
-  let apiURL = "AIzaSyD_88YyGuNBGuNsi5eoUSNgTIJ6hcPQdsM"
-    let apiKey = "AIzaSyBHHZzaliZ-0SiNRO7eaLWq5Yk0xCTVqcs" // Insert your Firebase API Key Here
+  let apiURL = ""
+    let apiKey = "" // Insert your Firebase API Key Here
     
   
   func loadPOIS(location: CLLocation, radius: Int = 30, handler: @escaping (NSDictionary?, NSError?) -> Void) {
